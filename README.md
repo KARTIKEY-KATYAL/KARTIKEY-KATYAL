@@ -19,23 +19,8 @@ I’m Kartikey Katyal, a passionate Full-Stack Developer and AI enthusiast. I sp
 - Apply AI capabilities using **OpenAI API**, **FastAPI**, and serverless deployments
 - Work with real-time video and audio platforms, background workers, and modern UI libraries
 
----
 
-## 🌱 Currently Working On
 
-- Scaling **ClipPod**, a SaaS tool that turns podcasts into viral clips
-- Exploring advanced AI use cases in meeting assistants and productivity tools
-- Deep diving into **AI + Video**, **modal serverless GPU processing**, and **stream video APIs**
-
----
-
-## 🤝 Open to Collaborate On
-
-- SaaS tools powered by AI or video
-- Platforms with **Next.js**, **Prisma**, **Stripe**, and **Auth**
-- Open-source or startup MVPs needing clean architecture and fast iteration
-
----
 
 ## 🎯 Goals
 
@@ -43,13 +28,7 @@ I’m Kartikey Katyal, a passionate Full-Stack Developer and AI enthusiast. I sp
 - Contribute to open-source tools for web developers and indie hackers
 - Keep solving real-world problems through software and automation
 
----
 
-## ⚡ Fun Fact
-
-I’ve solved 500+ DSA problems and still enjoy debugging more than Netflix. 😄
-
----
 
 ## 🛠 Tech Stack
 
@@ -60,20 +39,7 @@ I’ve solved 500+ DSA problems and still enjoy debugging more than Netflix. �
 **Cloud & DevOps:** AWS, Azure, Docker  
 **Tools & Concepts:** Git, GitHub, Stripe, Auth.js, Clerk, Inngest, SEO, OOP, DBMS
 
----
 
-## 🚀 Featured Projects
-
-### [🎥 ClipPod](https://github.com/KARTIKEY-KATYAL/clippod) | [Live](https://clippod.vercel.app/)
-> AI SaaS that converts long podcasts into short, viral clips using active speaker detection and GPU-powered FastAPI backend on Modal.
-
-### [📅 Meetly](https://github.com/KARTIKEY-KATYAL/Meetly) | [Live](https://www.meetly.dev/sign-in)
-> AI-powered meeting assistant that leverages OpenAI and Stream Video SDK to provide transcription, agent training, and video conferencing.
-
-### [🩺 MediMeet](https://github.com/KARTIKEY-KATYAL/medimeet) | [Live](https://www.medieet.in/)
-> Healthcare appointment platform with Stripe payment integration, video consultations, and secure role-based access.
-
----
 
 ## 📈 GitHub Stats
 
@@ -108,5 +74,3 @@ I’ve solved 500+ DSA problems and still enjoy debugging more than Netflix. �
 > “Coding is like solving a puzzle that builds something amazing.” – Me, daily. 😎
 
 ---
-
-## 🚀 Let's Build Something Awesome Together!
